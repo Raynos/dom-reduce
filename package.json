@@ -25,8 +25,8 @@
   "bugs": {
     "url": "http://github.com/Gozala/dom-reduce/issues/"
   },
-  "peerDependencies": {
-    "reducible": "~1.0.1"
+  "dependencies": {
+    "reducible": "~1.0.6"
   },
   "devDependencies": {
     "test": "~0.5.0",
